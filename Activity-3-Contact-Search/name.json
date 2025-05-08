@@ -71,6 +71,24 @@
           "position": "Data Analyst",
           "department": "Analytics"
         }
+      },
+              {
+        "name": "Reyniela Paredes",
+        "contactInfo": {
+          "email": "reynielaparedes211@Gmail.com",
+          "phone": "+1-617-555-0144"
+        },
+        "address": {
+          "street": "101 Elm Rd",
+          "city": "Boston",
+          "state": "MA",
+          "zip": "02118"
+        },
+        "company": {
+          "name": "Digital Dynamics",
+          "position": "Data Analyst",
+          "department": "Analytics"
+        }
       }
     ]
   }
