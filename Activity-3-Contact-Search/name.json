@@ -1,0 +1,77 @@
+{
+    "contacts": [
+      {
+        "name": "John Doe",
+        "contactInfo": {
+          "email": "sample@grc.com",
+          "phone": "+1-202-555-0173"
+        },
+        "address": {
+          "street": "123 Main St",
+          "city": "Anytown",
+          "state": "CA",
+          "zip": "12345"
+        },
+        "company": {
+          "name": "Tech Solutions",
+          "position": "Software Engineer",
+          "department": "Development Dept."
+        }
+      },
+      {
+        "name": "Jane Smith",
+        "contactInfo": {
+          "email": "jane.smith@example.com",
+          "phone": "+1-415-555-0198"
+        },
+        "address": {
+          "street": "456 Oak Ave",
+          "city": "Springfield",
+          "state": "IL",
+          "zip": "62704"
+        },
+        "company": {
+          "name": "Innova Corp",
+          "position": "Project Manager",
+          "department": "Operations"
+        }
+      },
+      {
+        "name": "Michael Lee",
+        "contactInfo": {
+          "email": "michael.lee@example.com",
+          "phone": "+1-303-555-0127"
+        },
+        "address": {
+          "street": "789 Pine St",
+          "city": "Denver",
+          "state": "CO",
+          "zip": "80203"
+        },
+        "company": {
+          "name": "NextGen Systems",
+          "position": "UI/UX Designer",
+          "department": "Creative Design"
+        }
+      },
+      {
+        "name": "Emily Chen",
+        "contactInfo": {
+          "email": "echen@company.com",
+          "phone": "+1-617-555-0144"
+        },
+        "address": {
+          "street": "101 Elm Rd",
+          "city": "Boston",
+          "state": "MA",
+          "zip": "02118"
+        },
+        "company": {
+          "name": "Digital Dynamics",
+          "position": "Data Analyst",
+          "department": "Analytics"
+        }
+      }
+    ]
+  }
+  
